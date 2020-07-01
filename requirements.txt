@@ -1,7 +1,7 @@
 alembic
+flask
 Flask-Migrate
 Flask-Script
 Flask-SQLAlchemy
 psycopg2
-
-gmaps
+gunicorn

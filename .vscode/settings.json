@@ -2,5 +2,6 @@
     "python.linting.pylintArgs": [
         "--load-plugins",
         "pylint-flask"
-    ]
+    ],
+    "python.pythonPath": "c:\\code\\teodor_project\\.venv\\Scripts\\python.exe"
 }
